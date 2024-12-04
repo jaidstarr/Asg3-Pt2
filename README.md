@@ -1,5 +1,7 @@
 # Asg3-Pt2
 
+link to load balancer - http://209.38.173.203/
+
 ## creating new droplets for load balancer
 when creating a load balancer, first thing you need to do is make sure that you have two servers set up and running. these servers will hold all your kernel information. This will also act as a file server, that you can hold and download files from.
 
